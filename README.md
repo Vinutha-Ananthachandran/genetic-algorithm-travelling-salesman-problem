@@ -1,4 +1,4 @@
-# Genetic-algorithm-travelling-salesman-problem
+# Genetic-algorithm-traveling-salesman-problem
 Solving travelling salesman problem using an informed search approach called the genetic algorithm. The solution involves the implementation of the following principles of the genetic population:
 1. Random Initial Population
 2. Mating pool creation using roulette wheel based selection
